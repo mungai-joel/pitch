@@ -1,0 +1,75 @@
+.container-fluid cool {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.61), rgba(0, 0, 0, 0.61)), url("https://www.google.com/url?sa=i&url=https%3A%2F%2Feskipaper.com%2Fphotography-wallpaper-38.html&psig=AOvVaw1vuESJBSFdK_G4njx1HHnk&ust=1614783716296000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOj_nqXwke8CFQAAAAAdAAAAABAF");
+}
+
+.cool {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.61), rgba(0, 0, 0, 0.61)), url("https://www.google.com/url?sa=i&url=https%3A%2F%2Feskipaper.com%2Fphotography-wallpaper-38.html&psig=AOvVaw1vuESJBSFdK_G4njx1HHnk&ust=1614783716296000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOj_nqXwke8CFQAAAAAdAAAAABAF");
+    padding: 0;
+    margin: 0;
+    background-size: cover;
+    color: white;
+    position: fixed;
+}
+
+.intro {
+    padding-top: 200px;
+    text-align: center;
+    padding-bottom: 370px;
+}
+
+.welcome {
+    font-family: 'ZCOOL XiaoWei', serif;
+    font-style: italic;
+    font-size: 70px;
+}
+
+.home {
+    font-size: 40px;
+    font-family: 'Srisakdi', cursive;
+    padding-bottom: 15px;
+}
+
+.cat {
+    font-size: 20px;
+    padding-top: 15px;
+}
+
+.para {
+    font-size: 30px;
+}
+
+.view {
+    font-size: 20px;
+}
+
+.log {
+    font-size: 15px;
+}
+
+.category {
+    font-size: 15px;
+}
+
+.set {
+    font-size: 20px;
+}
+
+.pitch-form {
+    font-size: 25px;
+}
+
+.real {
+    font-size: 10px;
+}
+
+.he {
+    font-size: 20px;
+}
+
+.ho {
+    font-size: 30px;
+}
+
+.rel {
+    font-size: 20px;
+}
