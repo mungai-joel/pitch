@@ -1,4 +1,4 @@
-# News Highlights
+# Pitch
 
 Pitch your ideas to the world
 
