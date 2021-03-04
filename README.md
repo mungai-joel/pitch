@@ -29,7 +29,7 @@ As a user of the website you will be able to:
 
 ### Installing
 
-*** To view the app.Visit -> [Pitch]()
+*** To view the app.Visit -> [Pitch](https://pitches-on-pitches.herokuapp.com/)
 * Step 1:
 Clone this repo: git clone https://github.com/mungai-joel/Pitch.git.
 * Step 2:
